@@ -1,0 +1,8 @@
+Executable : D:\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+D:\workspace\JniDemo-master\app\.externalNativeBuild\cmake\debug\arm64-v8a
+--target
+native
+jvmArgs : 
+

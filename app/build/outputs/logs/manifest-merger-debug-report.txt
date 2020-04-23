@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\be0dda58579194986b8d7e44b481bc91\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\9ad25d7372444a05772329d38520bcf2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\7801faa23ba8a0ce5ae8be6e0ba4c5eb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\bb64479500b058f0f906bdf4fac605f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\e3c30fb3a52e2af79eb3c2f0fe68c392\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\d18c36a57b396b0e84e87342a4ad9dde\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\abaf410890ea4b9aef1af5f30e7db8eb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\7af1a25c704e5cab7b63390edfd2ed97\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\72edc0b79f16ee25fa1586659dffb30f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\2802e067297a62ec95f7d2a210fe1a01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\6658bdb25422faf466f5571242e77b23\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\08edbf5f9b1e77138782f5563e529b58\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\f8b05c0e6507f67264a97e61bdac06f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\71b7d681854ffcdce719f1469da03cee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\a027f450f14d00917dfd975ca4c20ae4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\6e5be5f9f800afa64ea4b01ed5206373\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\e4530f47162530ae899df7bd5c256656\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\9ddc0c0f653165eefe4f1b24f7521d49\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\4e30e207fd1c6d6a444494050c438f31\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\e891dd3c8aa43d6b0f3b18b0e3a12304\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\353d98e0cdc8b90dfd58b6e7eb257d84\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\c712a724b8a3972507bb2b115da34832\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-beta01.aar\6ad7ac311aed2c5b16730acd68996b79\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\b7982194e6483a30e1509d09d92d4121\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\2b9a4d5357499ef71b6e983a20d937dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\46dc84976be64987d3c519f4cc8ffb14\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\9ad25d7372444a05772329d38520bcf2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\9ad25d7372444a05772329d38520bcf2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\6e5be5f9f800afa64ea4b01ed5206373\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\6e5be5f9f800afa64ea4b01ed5206373\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\9ddc0c0f653165eefe4f1b24f7521d49\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\9ddc0c0f653165eefe4f1b24f7521d49\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\6e5be5f9f800afa64ea4b01ed5206373\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#top.andnux.jnidemo.MainActivity
+ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\be0dda58579194986b8d7e44b481bc91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\be0dda58579194986b8d7e44b481bc91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\9ad25d7372444a05772329d38520bcf2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\9ad25d7372444a05772329d38520bcf2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\7801faa23ba8a0ce5ae8be6e0ba4c5eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\7801faa23ba8a0ce5ae8be6e0ba4c5eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\bb64479500b058f0f906bdf4fac605f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\bb64479500b058f0f906bdf4fac605f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\e3c30fb3a52e2af79eb3c2f0fe68c392\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\e3c30fb3a52e2af79eb3c2f0fe68c392\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\d18c36a57b396b0e84e87342a4ad9dde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\d18c36a57b396b0e84e87342a4ad9dde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\abaf410890ea4b9aef1af5f30e7db8eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\abaf410890ea4b9aef1af5f30e7db8eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\7af1a25c704e5cab7b63390edfd2ed97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\7af1a25c704e5cab7b63390edfd2ed97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\72edc0b79f16ee25fa1586659dffb30f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\72edc0b79f16ee25fa1586659dffb30f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\2802e067297a62ec95f7d2a210fe1a01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\2802e067297a62ec95f7d2a210fe1a01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\6658bdb25422faf466f5571242e77b23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\6658bdb25422faf466f5571242e77b23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\08edbf5f9b1e77138782f5563e529b58\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\08edbf5f9b1e77138782f5563e529b58\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\f8b05c0e6507f67264a97e61bdac06f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\f8b05c0e6507f67264a97e61bdac06f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\71b7d681854ffcdce719f1469da03cee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\71b7d681854ffcdce719f1469da03cee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\a027f450f14d00917dfd975ca4c20ae4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\a027f450f14d00917dfd975ca4c20ae4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\6e5be5f9f800afa64ea4b01ed5206373\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\6e5be5f9f800afa64ea4b01ed5206373\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\e4530f47162530ae899df7bd5c256656\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\e4530f47162530ae899df7bd5c256656\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\9ddc0c0f653165eefe4f1b24f7521d49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\9ddc0c0f653165eefe4f1b24f7521d49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\4e30e207fd1c6d6a444494050c438f31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\4e30e207fd1c6d6a444494050c438f31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\e891dd3c8aa43d6b0f3b18b0e3a12304\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\e891dd3c8aa43d6b0f3b18b0e3a12304\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\353d98e0cdc8b90dfd58b6e7eb257d84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\353d98e0cdc8b90dfd58b6e7eb257d84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\c712a724b8a3972507bb2b115da34832\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\c712a724b8a3972507bb2b115da34832\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-beta01.aar\6ad7ac311aed2c5b16730acd68996b79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-beta01.aar\6ad7ac311aed2c5b16730acd68996b79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\b7982194e6483a30e1509d09d92d4121\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\b7982194e6483a30e1509d09d92d4121\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\2b9a4d5357499ef71b6e983a20d937dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\2b9a4d5357499ef71b6e983a20d937dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\46dc84976be64987d3c519f4cc8ffb14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\Juwang\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\46dc84976be64987d3c519f4cc8ffb14\AndroidManifest.xml:20:5-44
+INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\JniDemo-master\app\src\main\AndroidManifest.xml
